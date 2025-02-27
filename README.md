@@ -66,7 +66,7 @@ Installation Guide
 
 
 
-git clone https://github.com/Bawakil8877/AppointmentSchedulingSystem.git
+git clone https://github.com/Bawakil8877/AppointmentScheduling1.git
 
 2. Open the project in Visual Studio.
 
